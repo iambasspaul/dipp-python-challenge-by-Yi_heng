@@ -1,0 +1,40 @@
+{
+    "facebook-header": {
+        "coordinates": {
+            "height": 200,
+            "width": 200,
+            "x": 250,
+            "y": 250
+        },
+        "splits": [
+            {
+                "content": "dipp inc,",
+                "font_size": 27,
+                "font_url": "https://fonts.gstatic.com/s/cinzeldecorative/v7/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lDQzCLlQXE.ttf",
+                "x": 250,
+                "y": 250
+            },
+            {
+                "content": "thinking",
+                "font_size": 27,
+                "font_url": "https://fonts.gstatic.com/s/cinzeldecorative/v7/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lDQzCLlQXE.ttf",
+                "x": 250,
+                "y": 277
+            },
+            {
+                "content": "out of the",
+                "font_size": 27,
+                "font_url": "https://fonts.gstatic.com/s/cinzeldecorative/v7/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lDQzCLlQXE.ttf",
+                "x": 250,
+                "y": 304
+            },
+            {
+                "content": "box.",
+                "font_size": 27,
+                "font_url": "https://fonts.gstatic.com/s/cinzeldecorative/v7/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lDQzCLlQXE.ttf",
+                "x": 250,
+                "y": 331
+            }
+        ]
+    }
+}
